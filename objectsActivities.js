@@ -1,4 +1,4 @@
-//  Activity 1
+//  // Activity 1
 //  const person = {
 //         name: "Nathan",
 //         age: "31",
@@ -14,12 +14,12 @@
 //     name: "Domino",
 //     typeOfPet: "Dog",
 //     age: 14,
-//     colour: ["Black", "White"]
+//     colour: ["Black", "White"],
 //     eat(){
 //         console.log(`${this.name} is eating.`);
-//     }
+//     },
 //     drink(){
-//         console.log(`${this.name} is drinking.`).
+//         console.log(`${this.name} is drinking.`);
 //     }
 // };
 
